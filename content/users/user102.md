@@ -1,5 +1,6 @@
 ---
 title: "user102"
+no_index: true
 ---
 
 * My github page: [gildor478](https://github.com/gildor478)
