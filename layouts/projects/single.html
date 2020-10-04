@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+<body lang="{{ .Site.LanguageCode }}">
+  {{ $baseurl := .Site.BaseURL }}
+  <a href="{{ .Site.BaseURL  }}">{{ .Site.Title }}</a>
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.new_website }}
+  <p id="new_website">The project is now hosted here: <a href="{{ . }}">{{ . }}</a></p>
+  {{ end }}
+  {{ .Content }}
+  {{ partial "footer.html" . }}
+  </body>
+</html>
