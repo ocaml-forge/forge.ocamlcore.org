@@ -2,3 +2,6 @@ baseURL = "https://forge.ocamlcore.org/"
 languageCode = "en-us"
 title = "OCaml Forge"
 theme = "forge-theme"
+
+[params]
+  bugReportURL = "https://github.com/ocaml/forge.ocamlcore.org/issues/new/choose"
