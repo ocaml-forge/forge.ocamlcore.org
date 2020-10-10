@@ -10,7 +10,6 @@ The goal of gt is to allow the user to easily define a context-free grammar in o
   * [user1246](/users/user1246)
 * Members:
   * [user1246](/users/user1246)
-* [Releases](https://download.ocamlcore.org/gratool)
 * Registered: 2011-07-21 16:03:21
 * Archived data:
   * 0 open bugs

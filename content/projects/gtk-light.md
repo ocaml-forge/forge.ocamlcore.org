@@ -10,7 +10,6 @@ A syntactically light wrapper for lablgtk
   * [user112](/users/user112)
 * Members:
   * [user112](/users/user112)
-* [Releases](https://download.ocamlcore.org/gtk-light)
 * Registered: 2010-11-28 17:09:14
 * Archived data:
   * 0 open bugs

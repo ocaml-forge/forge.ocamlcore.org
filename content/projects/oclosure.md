@@ -18,7 +18,6 @@ O'Closure is an experimental binding for the Google Closure Javascript Library, 
   * [user511](/users/user511)
   * [user512](/users/user512)
   * [user513](/users/user513)
-* [Releases](https://download.ocamlcore.org/oclosure)
 * Registered: 2010-03-28 15:29:32
 * Archived data:
   * 2 open bugs

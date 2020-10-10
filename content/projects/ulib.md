@@ -10,7 +10,6 @@ This project aims to provide a feather-weight, yet fully functional Unicode libr
   * [user861](/users/user861)
 * Members:
   * [user861](/users/user861)
-* [Releases](https://download.ocamlcore.org/ulib)
 * Registered: 2011-04-06 09:29:19
 * Archived data:
   * 0 open bugs

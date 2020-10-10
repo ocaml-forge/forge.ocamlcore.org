@@ -10,7 +10,6 @@ This tool allows you to monitor one or more web sites by regularly doing tests o
   * [user113](/users/user113)
 * Members:
   * [user113](/users/user113)
-* [Releases](https://download.ocamlcore.org/mlwebmonitor)
 * Registered: 2008-03-10 11:45:34
 * Archived data:
   * 0 open bugs

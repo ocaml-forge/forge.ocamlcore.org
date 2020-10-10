@@ -13,7 +13,6 @@ This project moved to http://github.com/xavierleroy/ocamltopwin
 * Members:
   * [user216](/users/user216)
   * [user884](/users/user884)
-* [Releases](https://download.ocamlcore.org/ocamltopwin)
 * Registered: 2012-03-24 09:06:34
 * Archived data:
   * 0 open bugs

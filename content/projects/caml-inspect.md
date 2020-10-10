@@ -11,7 +11,6 @@ associated object graph. It can produce S-expressions or Graphviz DOT output.
   * [user532](/users/user532)
 * Members:
   * [user532](/users/user532)
-* [Releases](https://download.ocamlcore.org/caml-inspect)
 * Registered: 2010-04-21 10:15:39
 * Archived data:
   * 0 open bugs

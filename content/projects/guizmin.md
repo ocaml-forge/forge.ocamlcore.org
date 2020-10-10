@@ -10,7 +10,6 @@ Guizmin is a library to build bioinformatics pipelines from a set of components 
   * [user294](/users/user294)
 * Members:
   * [user294](/users/user294)
-* [Releases](https://download.ocamlcore.org/guizmin)
 * Registered: 2010-06-14 08:49:24
 * Archived data:
   * 0 open bugs

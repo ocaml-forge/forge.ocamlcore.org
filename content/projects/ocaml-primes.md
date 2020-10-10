@@ -13,7 +13,6 @@ SCM: https://github.com/gildor478/ocaml-primes
   * [user102](/users/user102)
 * Members:
   * [user102](/users/user102)
-* [Releases](https://download.ocamlcore.org/ocaml-primes)
 * Registered: 2011-06-29 23:11:52
 * Archived data:
   * 0 open bugs

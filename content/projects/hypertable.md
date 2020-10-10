@@ -12,7 +12,6 @@ moved to http://ygrek.org.ua/p/ocaml-hypertable
 * Members:
   * [user832](/users/user832)
   * [user116](/users/user116)
-* [Releases](https://download.ocamlcore.org/hypertable)
 * Registered: 2010-12-22 10:09:32
 * Archived data:
   * 0 open bugs

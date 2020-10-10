@@ -10,7 +10,6 @@ TBF is a full Programming language that can easily be compiled to the Brainf*ck 
   * [user143](/users/user143)
 * Members:
   * [user143](/users/user143)
-* [Releases](https://download.ocamlcore.org/tbf)
 * Registered: 2008-04-20 14:45:10
 * Archived data:
   * 0 open bugs

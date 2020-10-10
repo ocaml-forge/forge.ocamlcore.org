@@ -10,7 +10,6 @@ NNTP client-side library.
   * [user290](/users/user290)
 * Members:
   * [user290](/users/user290)
-* [Releases](https://download.ocamlcore.org/ocaml-nntp)
 * Registered: 2009-12-03 08:47:58
 * Archived data:
   * 0 open bugs

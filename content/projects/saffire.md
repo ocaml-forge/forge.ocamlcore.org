@@ -10,7 +10,6 @@ Saffire is an FFI-checker. This project is a fork of the last release (from 2009
   * [user148](/users/user148)
 * Members:
   * [user148](/users/user148)
-* [Releases](https://download.ocamlcore.org/saffire)
 * Registered: 2012-08-22 15:07:29
 * Archived data:
   * 0 open bugs

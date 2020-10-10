@@ -11,7 +11,6 @@ Repository: http://repo.or.cz/w/ocaml-dbf.git
   * [user157](/users/user157)
 * Members:
   * [user157](/users/user157)
-* [Releases](https://download.ocamlcore.org/ocaml-dbf)
 * Registered: 2009-09-12 16:46:49
 * Archived data:
   * 0 open bugs

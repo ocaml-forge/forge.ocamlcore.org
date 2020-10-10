@@ -10,7 +10,6 @@ A toolbox for WebGL and OpenGL ES 2.0 shader transformations.
   * [user3911](/users/user3911)
 * Members:
   * [user3911](/users/user3911)
-* [Releases](https://download.ocamlcore.org/gloc)
 * Registered: 2012-01-13 01:30:57
 * Archived data:
   * 0 open bugs

@@ -10,7 +10,6 @@ Yaxpo is a hand-written nonvalidating XML 1.0 + XMLNS processing suite for Objec
   * [user153](/users/user153)
 * Members:
   * [user153](/users/user153)
-* [Releases](https://download.ocamlcore.org/yaxpo)
 * Registered: 2008-07-12 21:14:29
 * Archived data:
   * 1 open bugs

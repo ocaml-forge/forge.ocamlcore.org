@@ -16,7 +16,6 @@ Wikipedia: http://en.wikipedia.org/wiki/Chipmunk_physics_engine
 * Members:
   * [user437](/users/user437)
   * [user8046](/users/user8046)
-* [Releases](https://download.ocamlcore.org/ocaml-chipmunk)
 * Registered: 2012-09-12 23:30:00
 * Archived data:
   * 0 open bugs

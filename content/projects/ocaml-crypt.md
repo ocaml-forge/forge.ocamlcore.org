@@ -10,7 +10,6 @@ A binding to the C crypt function.
   * [user924](/users/user924)
 * Members:
   * [user924](/users/user924)
-* [Releases](https://download.ocamlcore.org/ocaml-crypt)
 * Registered: 2011-06-05 12:08:48
 * Archived data:
   * 0 open bugs

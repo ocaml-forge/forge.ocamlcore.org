@@ -13,7 +13,6 @@ The project of 'Concurrent Cell' will be a successor to 'EThreads'.
   * [user162](/users/user162)
 * Members:
   * [user162](/users/user162)
-* [Releases](https://download.ocamlcore.org/ethread)
 * Registered: 2008-06-25 12:02:28
 * Archived data:
   * 0 open bugs

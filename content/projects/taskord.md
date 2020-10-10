@@ -11,7 +11,6 @@ This is also my test ride with the "ontological" approach to data storage.
   * [user188](/users/user188)
 * Members:
   * [user188](/users/user188)
-* [Releases](https://download.ocamlcore.org/taskord)
 * Registered: 2011-05-13 09:13:56
 * Archived data:
   * 0 open bugs

@@ -13,7 +13,6 @@ Pretty printing of PHP programs is also supported.
   * [user574](/users/user574)
 * Members:
   * [user574](/users/user574)
-* [Releases](https://download.ocamlcore.org/phphard)
 * Registered: 2013-10-16 12:20:52
 * Archived data:
   * 0 open bugs

@@ -10,7 +10,6 @@ This is an ocaml course with exercises, in french. Sources are available.
   * [user304](/users/user304)
 * Members:
   * [user304](/users/user304)
-* [Releases](https://download.ocamlcore.org/form-ocaml)
 * Registered: 2011-03-04 14:23:00
 * Archived data:
   * 0 open bugs

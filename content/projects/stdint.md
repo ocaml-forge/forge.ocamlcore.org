@@ -12,7 +12,6 @@ stdint provides exact-width integer types and functions to work with them
 * Members:
   * [user893](/users/user893)
   * [user198](/users/user198)
-* [Releases](https://download.ocamlcore.org/stdint)
 * Registered: 2015-08-17 19:06:40
 * Archived data:
   * 0 open bugs

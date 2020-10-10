@@ -10,7 +10,6 @@ A binding to the MPFI (Multiple Precision Floating-Point Interval) library that 
   * [user144](/users/user144)
 * Members:
   * [user144](/users/user144)
-* [Releases](https://download.ocamlcore.org/mpfi)
 * Registered: 2010-05-13 20:34:17
 * Archived data:
   * 0 open bugs

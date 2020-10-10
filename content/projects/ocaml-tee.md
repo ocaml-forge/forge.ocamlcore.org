@@ -13,7 +13,6 @@ SCM https://github.com/gildor478/ocaml-tee
   * [user102](/users/user102)
 * Members:
   * [user102](/users/user102)
-* [Releases](https://download.ocamlcore.org/ocaml-tee)
 * Registered: 2008-09-29 20:10:16
 * Archived data:
   * 0 open bugs

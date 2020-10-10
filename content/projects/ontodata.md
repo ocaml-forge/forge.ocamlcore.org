@@ -10,7 +10,6 @@ This is an experiment. It will be a tool that translates abstract descriptions o
   * [user188](/users/user188)
 * Members:
   * [user188](/users/user188)
-* [Releases](https://download.ocamlcore.org/ontodata)
 * Registered: 2010-12-09 04:17:25
 * Archived data:
   * 0 open bugs

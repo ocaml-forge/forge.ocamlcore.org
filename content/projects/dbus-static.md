@@ -10,7 +10,6 @@ DBus interface introspection and static stubs code generation
   * [user116](/users/user116)
 * Members:
   * [user116](/users/user116)
-* [Releases](https://download.ocamlcore.org/dbus-static)
 * Registered: 2010-02-24 20:48:48
 * Archived data:
   * 0 open bugs

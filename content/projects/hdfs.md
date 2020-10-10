@@ -11,7 +11,6 @@ Moved to http://ygrek.org.ua/p/ocaml-hdfs
   * [user116](/users/user116)
 * Members:
   * [user116](/users/user116)
-* [Releases](https://download.ocamlcore.org/hdfs)
 * Registered: 2013-06-11 22:11:55
 * Archived data:
   * 0 open bugs

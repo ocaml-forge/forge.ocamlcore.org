@@ -16,7 +16,6 @@ Oscforge is a forge for the Ocsigen web server. It extends Ocsimore with a new k
   * [user278](/users/user278)
   * [user287](/users/user287)
   * [user343](/users/user343)
-* [Releases](https://download.ocamlcore.org/ocsforge)
 * Registered: 2009-06-08 14:06:10
 * Archived data:
   * 0 open bugs

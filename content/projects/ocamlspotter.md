@@ -10,7 +10,6 @@ OCamlSpotter is a compiler enhancement + a command line tool for OCaml source co
   * [user273](/users/user273)
 * Members:
   * [user273](/users/user273)
-* [Releases](https://download.ocamlcore.org/ocamlspotter)
 * Registered: 2010-06-20 02:46:11
 * Archived data:
   * 0 open bugs

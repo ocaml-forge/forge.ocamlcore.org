@@ -15,7 +15,6 @@ This project is deprecated as of 2017-01-25, it will stay online but will see no
   * [user102](/users/user102)
   * [user273](/users/user273)
   * [user156](/users/user156)
-* [Releases](https://download.ocamlcore.org/ocaml-meeting)
 * Registered: 2009-01-27 23:37:41
 * Archived data:
   * 0 open bugs

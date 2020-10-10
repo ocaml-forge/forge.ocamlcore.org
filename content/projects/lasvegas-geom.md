@@ -10,7 +10,6 @@ This program implements an extremely efficient randomized computational geometry
   * [user670](/users/user670)
 * Members:
   * [user670](/users/user670)
-* [Releases](https://download.ocamlcore.org/lasvegas-geom)
 * Registered: 2010-07-29 19:10:33
 * Archived data:
   * 0 open bugs

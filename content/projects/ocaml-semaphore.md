@@ -14,7 +14,6 @@ Cf. http://ocaml-sem.sourceforge.net/
   * [user188](/users/user188)
 * Members:
   * [user188](/users/user188)
-* [Releases](https://download.ocamlcore.org/ocaml-semaphore)
 * Registered: 2010-05-07 16:33:17
 * Archived data:
   * 0 open bugs

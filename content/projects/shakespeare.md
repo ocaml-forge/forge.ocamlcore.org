@@ -13,7 +13,6 @@ The Shakespeare programming language [1] is a language that allows you to write 
 * Members:
   * [user902](/users/user902)
   * [user928](/users/user928)
-* [Releases](https://download.ocamlcore.org/shakespeare)
 * Registered: 2011-04-09 12:19:06
 * Archived data:
   * 0 open bugs

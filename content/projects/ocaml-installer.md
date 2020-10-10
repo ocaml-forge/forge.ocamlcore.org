@@ -13,7 +13,6 @@ http://wodi.forge.ocamlcore.org/ for an OCaml + package manager on Windows.
   * [user678](/users/user678)
 * Members:
   * [user678](/users/user678)
-* [Releases](https://download.ocamlcore.org/ocaml-installer)
 * Registered: 2010-08-06 05:15:22
 * Archived data:
   * 0 open bugs

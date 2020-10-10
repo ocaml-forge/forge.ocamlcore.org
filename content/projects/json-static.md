@@ -12,7 +12,6 @@ This project is no longer hosted here (and defunct).
 * Members:
   * [user128](/users/user128)
   * [user109](/users/user109)
-* [Releases](https://download.ocamlcore.org/json-static)
 * Registered: 2008-07-03 19:14:52
 * Archived data:
   * 0 open bugs

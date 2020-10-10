@@ -10,7 +10,6 @@ Highly concurrent JoCaml extensions to the library structures.
   * [user109](/users/user109)
 * Members:
   * [user109](/users/user109)
-* [Releases](https://download.ocamlcore.org/adlib-jocaml)
 * Registered: 2008-03-07 21:57:46
 * Archived data:
   * 1 open bugs

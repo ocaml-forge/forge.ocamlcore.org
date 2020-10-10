@@ -10,7 +10,6 @@ Library for the (possibly distributed) simulation of networks of spiking neurons
   * [user247](/users/user247)
 * Members:
   * [user247](/users/user247)
-* [Releases](https://download.ocamlcore.org/camlspikes)
 * Registered: 2009-04-15 11:45:16
 * Archived data:
   * 0 open bugs

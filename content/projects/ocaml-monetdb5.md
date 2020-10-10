@@ -11,7 +11,6 @@ MonetDB5 is a high-performance columnar database system.
   * [user274](/users/user274)
 * Members:
   * [user274](/users/user274)
-* [Releases](https://download.ocamlcore.org/ocaml-monetdb5)
 * Registered: 2010-01-09 21:35:11
 * Archived data:
   * 0 open bugs

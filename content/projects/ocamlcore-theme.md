@@ -12,7 +12,6 @@ This project is deprecated as of 2017-01-25.
   * [user102](/users/user102)
 * Members:
   * [user102](/users/user102)
-* [Releases](https://download.ocamlcore.org/ocamlcore-theme)
 * Registered: 2008-04-10 10:08:11
 * Archived data:
   * 0 open bugs

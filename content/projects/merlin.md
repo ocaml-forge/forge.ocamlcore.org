@@ -10,7 +10,6 @@ Context sensitive completion and interactive error-reporting for Ocaml in Vim an
   * [user8046](/users/user8046)
 * Members:
   * [user8046](/users/user8046)
-* [Releases](https://download.ocamlcore.org/merlin)
 * Registered: 2013-05-01 17:11:26
 * Archived data:
   * 0 open bugs

@@ -10,7 +10,6 @@ Surikata is a computational system which uses inductive inference and informatio
   * [user763](/users/user763)
 * Members:
   * [user763](/users/user763)
-* [Releases](https://download.ocamlcore.org/surikata)
 * Registered: 2011-01-22 12:03:37
 * Archived data:
   * 0 open bugs

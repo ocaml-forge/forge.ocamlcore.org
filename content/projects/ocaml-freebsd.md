@@ -10,7 +10,6 @@ Scripts and programs to ease maintenership of OCaml ports on FreeBSD.
   * [user111](/users/user111)
 * Members:
   * [user111](/users/user111)
-* [Releases](https://download.ocamlcore.org/ocaml-freebsd)
 * Registered: 2013-06-25 18:40:10
 * Archived data:
   * 0 open bugs

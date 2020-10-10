@@ -10,7 +10,6 @@ This project is no longer hosted here (and defunct).
   * [user128](/users/user128)
 * Members:
   * [user128](/users/user128)
-* [Releases](https://download.ocamlcore.org/netplus)
 * Registered: 2009-02-27 00:04:12
 * Archived data:
   * 0 open bugs

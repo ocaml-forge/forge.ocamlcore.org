@@ -12,7 +12,6 @@ using a database with entries of the form "name = url".
 * Members:
   * [user115](/users/user115)
   * [user7340](/users/user7340)
-* [Releases](https://download.ocamlcore.org/hlins)
 * Registered: 2008-03-14 08:05:02
 * Archived data:
   * 1 open bugs

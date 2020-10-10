@@ -10,7 +10,6 @@ Gasoline is a small collection of libraries aiming at providing a simple applica
   * [user111](/users/user111)
 * Members:
   * [user111](/users/user111)
-* [Releases](https://download.ocamlcore.org/libertine)
 * Registered: 2008-05-04 18:33:40
 * Archived data:
   * 0 open bugs

@@ -10,7 +10,6 @@ This library implements functional (immutable) circular doubly linked lists in O
   * [user1337](/users/user1337)
 * Members:
   * [user1337](/users/user1337)
-* [Releases](https://download.ocamlcore.org/fcdll)
 * Registered: 2011-07-29 14:48:58
 * Archived data:
   * 0 open bugs

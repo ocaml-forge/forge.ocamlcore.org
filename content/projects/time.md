@@ -10,7 +10,6 @@ The time library provides POSIX clock and time types and functions for OCaml. Th
   * [user893](/users/user893)
 * Members:
   * [user893](/users/user893)
-* [Releases](https://download.ocamlcore.org/time)
 * Registered: 2015-09-17 20:58:51
 * Archived data:
   * 0 open bugs

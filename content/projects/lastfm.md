@@ -10,7 +10,6 @@ This Library contains bindings to the Last.FM web-service. All data from the las
   * [user644](/users/user644)
 * Members:
   * [user644](/users/user644)
-* [Releases](https://download.ocamlcore.org/lastfm)
 * Registered: 2010-07-14 18:37:26
 * Archived data:
   * 0 open bugs

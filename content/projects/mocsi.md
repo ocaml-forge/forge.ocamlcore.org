@@ -10,7 +10,6 @@ Scheduling web application (à la doodle.com) using Ocsigen
   * [user4863](/users/user4863)
 * Members:
   * [user4863](/users/user4863)
-* [Releases](https://download.ocamlcore.org/mocsi)
 * Registered: 2012-02-14 13:10:47
 * Archived data:
   * 0 open bugs

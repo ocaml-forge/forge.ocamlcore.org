@@ -12,7 +12,6 @@ Ocsfml is a binding of the C++ sfml library. It aims at providing a crossplatfor
 * Members:
   * [user5974](/users/user5974)
   * [user5977](/users/user5977)
-* [Releases](https://download.ocamlcore.org/ocsfml)
 * Registered: 2012-04-15 09:42:48
 * Archived data:
   * 0 open bugs

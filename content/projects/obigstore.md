@@ -10,7 +10,6 @@ obigstore: multi-dimensional DB with BigTable-like data model atop LevelDB
   * [user172](/users/user172)
 * Members:
   * [user172](/users/user172)
-* [Releases](https://download.ocamlcore.org/obigstore)
 * Registered: 2012-06-12 19:19:41
 * Archived data:
   * 0 open bugs

@@ -13,7 +13,6 @@ Homotopy algorithms is a library implementing various homotopy (aka continuation
   * [user211](/users/user211)
   * [user621](/users/user621)
   * [user623](/users/user623)
-* [Releases](https://download.ocamlcore.org/homotopy)
 * Registered: 2008-12-19 17:50:20
 * Archived data:
   * 0 open bugs

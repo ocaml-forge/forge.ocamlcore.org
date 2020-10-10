@@ -10,7 +10,6 @@ A lightweight, modular standard library extension, string library, and interface
   * [user21058](/users/user21058)
 * Members:
   * [user21058](/users/user21058)
-* [Releases](https://download.ocamlcore.org/containers)
 * Registered: 2015-09-03 19:52:12
 * Archived data:
   * 0 open bugs

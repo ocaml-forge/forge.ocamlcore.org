@@ -14,7 +14,6 @@ Calcul mathématique avec Ocaml.
   * [user5567](/users/user5567)
 * Members:
   * [user5567](/users/user5567)
-* [Releases](https://download.ocamlcore.org/mathocaml)
 * Registered: 2012-03-23 10:12:57
 * Archived data:
   * 0 open bugs

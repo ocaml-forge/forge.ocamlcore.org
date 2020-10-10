@@ -10,7 +10,6 @@ the project is deprecated and should be deleted
   * [user826](/users/user826)
 * Members:
   * [user826](/users/user826)
-* [Releases](https://download.ocamlcore.org/okahep)
 * Registered: 2010-12-30 21:49:43
 * Archived data:
   * 0 open bugs

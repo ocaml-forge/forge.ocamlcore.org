@@ -12,7 +12,6 @@ This program is used by this genotypes database : www.mlva.eu
   * [user204](/users/user204)
 * Members:
   * [user204](/users/user204)
-* [Releases](https://download.ocamlcore.org/phylomel)
 * Registered: 2008-11-19 18:28:28
 * Archived data:
   * 0 open bugs

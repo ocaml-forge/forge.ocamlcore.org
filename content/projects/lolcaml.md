@@ -10,7 +10,6 @@ A runtime for LOLCode (http://lolcode.code), intended as an introductory OCaml a
   * [user109](/users/user109)
 * Members:
   * [user109](/users/user109)
-* [Releases](https://download.ocamlcore.org/lolcaml)
 * Registered: 2008-05-21 01:56:32
 * Archived data:
   * 0 open bugs

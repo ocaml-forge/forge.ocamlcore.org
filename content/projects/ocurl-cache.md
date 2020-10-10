@@ -12,7 +12,6 @@ This project is INACTIVE.
   * [user102](/users/user102)
 * Members:
   * [user102](/users/user102)
-* [Releases](https://download.ocamlcore.org/ocurl-cache)
 * Registered: 2010-12-15 15:50:47
 * Archived data:
   * 0 open bugs

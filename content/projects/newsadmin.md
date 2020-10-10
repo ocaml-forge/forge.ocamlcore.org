@@ -12,7 +12,6 @@ no_index: true
 * Members:
   * [user101](/users/user101)
   * [user102](/users/user102)
-* [Releases](https://download.ocamlcore.org/newsadmin)
 * Registered: 2008-01-31 14:26:49
 * Archived data:
   * 0 open bugs

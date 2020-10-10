@@ -16,7 +16,6 @@ glMLite is a set of OCaml bindings to OpenGL, GLU, Glut, GLE, FTGL, and texture 
   * [user743](/users/user743)
   * [user437](/users/user437)
   * [user825](/users/user825)
-* [Releases](https://download.ocamlcore.org/glmlite)
 * Registered: 2010-01-29 20:17:25
 * Archived data:
   * 0 open bugs

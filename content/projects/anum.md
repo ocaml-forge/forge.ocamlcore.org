@@ -10,7 +10,6 @@ modules ocaml analyse numérique, recherche de racine, approximation de fonction
   * [user722](/users/user722)
 * Members:
   * [user722](/users/user722)
-* [Releases](https://download.ocamlcore.org/anum)
 * Registered: 2010-09-09 09:07:23
 * Archived data:
   * 0 open bugs

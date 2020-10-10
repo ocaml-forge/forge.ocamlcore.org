@@ -14,7 +14,6 @@ Sources: http://hg.ocamlcore.org/cgi-bin/hgwebdir.cgi/hlibrary/hlibrary/
   * [user188](/users/user188)
 * Members:
   * [user188](/users/user188)
-* [Releases](https://download.ocamlcore.org/hlibrary)
 * Registered: 2010-07-27 00:52:23
 * Archived data:
   * 0 open bugs

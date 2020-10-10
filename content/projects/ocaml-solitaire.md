@@ -12,7 +12,6 @@ The project aims at describing precisely every way to solve a Peg Solitaire [1] 
   * [user245](/users/user245)
 * Members:
   * [user245](/users/user245)
-* [Releases](https://download.ocamlcore.org/ocaml-solitaire)
 * Registered: 2009-04-14 13:20:10
 * Archived data:
   * 0 open bugs

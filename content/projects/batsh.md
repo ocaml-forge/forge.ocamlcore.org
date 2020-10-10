@@ -10,7 +10,6 @@ A language that compiles to Bash and Windows Batch.
   * [user14545](/users/user14545)
 * Members:
   * [user14545](/users/user14545)
-* [Releases](https://download.ocamlcore.org/batsh)
 * Registered: 2013-10-15 09:46:35
 * Archived data:
   * 0 open bugs

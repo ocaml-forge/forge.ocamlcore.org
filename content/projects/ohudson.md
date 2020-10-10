@@ -13,7 +13,6 @@ publish coverage reports produced by Bisect.
   * [user255](/users/user255)
 * Members:
   * [user255](/users/user255)
-* [Releases](https://download.ocamlcore.org/ohudson)
 * Registered: 2009-06-17 20:01:18
 * Archived data:
   * 0 open bugs

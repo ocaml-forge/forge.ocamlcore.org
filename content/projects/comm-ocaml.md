@@ -10,7 +10,6 @@ An enhanced distribution of the OCaml compiler and programming environment (stdl
   * [user142](/users/user142)
 * Members:
   * [user142](/users/user142)
-* [Releases](https://download.ocamlcore.org/comm-ocaml)
 * Registered: 2008-04-20 10:16:42
 * Archived data:
   * 0 open bugs

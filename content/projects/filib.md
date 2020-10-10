@@ -15,7 +15,6 @@ This is a binding to filib++ <http://www2.math.uni-wuppertal.de/~xsc/software/fi
   * [user144](/users/user144)
   * [user211](/users/user211)
   * [user621](/users/user621)
-* [Releases](https://download.ocamlcore.org/filib)
 * Registered: 2010-12-31 14:13:36
 * Archived data:
   * 0 open bugs

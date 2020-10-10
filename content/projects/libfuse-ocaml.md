@@ -10,7 +10,6 @@ OCaml bindings for libfuse (filesystem in userspace library)
   * [user214](/users/user214)
 * Members:
   * [user214](/users/user214)
-* [Releases](https://download.ocamlcore.org/libfuse-ocaml)
 * Registered: 2009-03-05 12:49:36
 * Archived data:
   * 0 open bugs

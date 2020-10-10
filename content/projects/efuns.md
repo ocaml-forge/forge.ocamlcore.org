@@ -14,7 +14,6 @@ efuns is a rewrite of emacs in ocaml written by Fabrice Le Fessant (of INRIA). T
   * [user820](/users/user820)
   * [user820](/users/user820)
   * [user820](/users/user820)
-* [Releases](https://download.ocamlcore.org/efuns)
 * Registered: 2010-12-16 12:54:51
 * Archived data:
   * 0 open bugs

@@ -11,7 +11,6 @@ Polydroml is a library generating polyhedra from the Wythoff notation. It also a
 * Members:
   * [user852](/users/user852)
   * [user621](/users/user621)
-* [Releases](https://download.ocamlcore.org/polydroml)
 * Registered: 2011-09-01 12:36:00
 * Archived data:
   * 0 open bugs

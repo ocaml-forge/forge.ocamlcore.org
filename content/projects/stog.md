@@ -10,7 +10,6 @@ Stog is like Jekyll in OCaml.
   * [user304](/users/user304)
 * Members:
   * [user304](/users/user304)
-* [Releases](https://download.ocamlcore.org/stog)
 * Registered: 2012-05-09 12:21:55
 * Archived data:
   * 0 open bugs

@@ -12,7 +12,6 @@ merged with lwt
 * Members:
   * [user145](/users/user145)
   * [user224](/users/user224)
-* [Releases](https://download.ocamlcore.org/lwt-plus)
 * Registered: 2009-03-03 10:16:31
 * Archived data:
   * 0 open bugs

@@ -12,7 +12,6 @@ CSML makes it possible to leverage existing .Net components from OCaml, to expos
   * [user183](/users/user183)
 * Members:
   * [user183](/users/user183)
-* [Releases](https://download.ocamlcore.org/csml)
 * Registered: 2008-09-17 08:15:45
 * Archived data:
   * 0 open bugs

@@ -18,7 +18,6 @@ Amthing is a multi-threaded GUI library for Objective Caml.
   * [user162](/users/user162)
   * [user244](/users/user244)
   * [user250](/users/user250)
-* [Releases](https://download.ocamlcore.org/amthing)
 * Registered: 2009-04-08 04:14:37
 * Archived data:
   * 1 open bugs

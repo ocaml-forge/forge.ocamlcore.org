@@ -10,7 +10,6 @@ Hypomnemata aims to provide a way to handle bugs, tasks and other information ab
   * [user304](/users/user304)
 * Members:
   * [user304](/users/user304)
-* [Releases](https://download.ocamlcore.org/hypomnemata)
 * Registered: 2010-10-18 12:50:57
 * Archived data:
   * 0 open bugs

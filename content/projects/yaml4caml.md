@@ -10,7 +10,6 @@ YAML for Caml is a project that aims at providing native Objective Caml parsing 
   * [user242](/users/user242)
 * Members:
   * [user242](/users/user242)
-* [Releases](https://download.ocamlcore.org/yaml4caml)
 * Registered: 2009-03-27 14:40:28
 * Archived data:
   * 0 open bugs
