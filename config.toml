@@ -4,4 +4,4 @@ title = "OCaml Forge"
 theme = "forge-theme"
 
 [params]
-  bugReportURL = "https://github.com/ocaml/forge.ocamlcore.org/issues/new/choose"
+  bugReportURL = "https://github.com/ocaml-forge/forge.ocamlcore.org/issues/new/choose"
