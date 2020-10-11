@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+    <body lang="{{ .Site.LanguageCode }}">
+        {{ $baseurl := .Site.BaseURL }}
+        <a href="{{ .Site.BaseURL  }}">{{ .Site.Title }}</a>
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+        {{ partial "footer.html" . }}
+    </body>
+</html>

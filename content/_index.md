@@ -1,5 +1,10 @@
+---
+title: "OCaml Forge"
+no_index: true
+---
 
 This website is here to replace forge.ocamlcore.org, which once was hosting OCaml projects for the OCaml community.
 
-[ocaml.org](https://ocaml.org)
-
+* [Deprecation Announcement](/deprecation_announcement)
+* [FAQ](/faq)
+* [All projects](/projects/)
