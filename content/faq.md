@@ -118,7 +118,7 @@ User names (and email address) are just a way to send you spam. Since I didn't h
 names on the static website, I decided to remove them and only keep the user id. It is not great in terms of UI, but it
 was the safest option for me.  
 
-## How to update a user page?
+## How to update a user page? {#users_page}
 
 On the user page, you can update the description to include for example your Github profile. Send a PR to
 [forge.ocamlcore.org repository] where the file content/users/$user.md has been updated.
