@@ -1,4 +1,4 @@
-baseURL = "https://forge.ocamlcore.org/"
+baseURL = "https://forge-ocamlcore-org.netlify.app/"
 languageCode = "en-us"
 title = "OCaml Forge"
 theme = "forge-theme"
