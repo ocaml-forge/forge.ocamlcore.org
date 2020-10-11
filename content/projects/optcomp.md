@@ -6,9 +6,6 @@ no_index: true
 
 Camlp4 syntax extension for optional compilation with cpp-like directives.
 
-The development repository is on github: https://github.com/diml/optcomp
-
-
 * Admins:
   * [user145](/users/user145)
 * Members:

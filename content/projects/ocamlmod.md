@@ -6,9 +6,6 @@ no_index: true
 
 Generate OCaml modules from source files.
 
-SCM https://github.com/gildor478/ocamlmod
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

@@ -4,9 +4,6 @@ new_website: http://ygrek.org.ua/p/ocaml-extunix/
 no_index: true
 ---
 
-moved to https://ygrek.org.ua/p/ocaml-extunix/
-
-
 * Admins:
   * [user116](/users/user116)
 * Members:

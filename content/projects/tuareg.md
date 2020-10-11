@@ -4,8 +4,9 @@ new_website: https://github.com/ocaml/tuareg
 no_index: true
 ---
 
-Tuareg is a Caml mode for GNU Emacs  and XEmacs. It handles automatic indentation of Objective Caml and Camllight codes. Key parts of the code are hilighted using Font-Lock.
-MOVED → https://github.com/ocaml/tuareg
+Tuareg is a Caml mode for GNU Emacs  and XEmacs. It handles automatic indentation of Objective Caml and Camllight codes.
+Key parts of the code are hilighted using Font-Lock.
+
 
 
 * Admins:

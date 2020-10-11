@@ -4,9 +4,6 @@ new_website: http://ygrek.org.ua/p/ocurl/
 no_index: true
 ---
 
-moved to http://ygrek.org.ua/p/ocurl
-
-
 * Admins:
   * [user116](/users/user116)
 * Members:

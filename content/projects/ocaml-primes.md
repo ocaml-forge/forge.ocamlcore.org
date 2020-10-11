@@ -6,9 +6,6 @@ no_index: true
 
 Some simple prime functions, used to solve problems of project Euler. For example, an Erathostenes sieve.
 
-SCM: https://github.com/gildor478/ocaml-primes
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

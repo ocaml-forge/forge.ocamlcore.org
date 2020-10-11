@@ -4,9 +4,8 @@ new_website: https://github.com/Chris00/ocaml-mindstorm
 no_index: true
 ---
 
-OCaml-mindstorm is a library that enables you to drive Lego mindstorm NXT bricks from OCaml. Communication with the NXT brick is done through bluetooth.
-Moved to https://github.com/Chris00/ocaml-mindstorm
-
+OCaml-mindstorm is a library that enables you to drive Lego mindstorm NXT bricks from OCaml. Communication with the NXT
+brick is done through bluetooth.
 
 * Admins:
   * [user144](/users/user144)

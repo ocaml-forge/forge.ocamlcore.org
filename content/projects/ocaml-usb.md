@@ -6,10 +6,6 @@ no_index: true
 
 Asynchronous USB made easy!
 
-The development repository is on github: https://github.com/diml/ocaml-usb
-
-
-
 * Admins:
   * [user218](/users/user218)
   * [user145](/users/user145)

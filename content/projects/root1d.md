@@ -6,9 +6,6 @@ no_index: true
 
 Collection of functions to find roots of functions float → float.  Pure OCaml code.
 
-→ Github https://github.com/Chris00/root1d
-
-
 * Admins:
   * [user144](/users/user144)
 * Members:

@@ -9,9 +9,6 @@ General command line syntax of GNU getopt and getopt_long, but is close to the s
 This project was formerly hosted here:
 http://alain.frisch.fr/soft.html#Getopt
 
-SCM https://github.com/gildor478/ocaml-getopt
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

@@ -4,8 +4,8 @@ new_website: https://github.com/Chris00/ocaml-cairo
 no_index: true
 ---
 
-Cairo is a 2D graphics library with support for multiple output devices. This module is a binding to http://cairographics.org/  The code is developed at https://github.com/Chris00/ocaml-cairo and is mirrored here (possibly with some delay)
-
+Cairo is a 2D graphics library with support for multiple output devices. This module is a binding to
+http://cairographics.org/
 
 * Admins:
   * [user144](/users/user144)

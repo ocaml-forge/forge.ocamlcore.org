@@ -4,9 +4,8 @@ new_website: https://github.com/Chris00/lpd
 no_index: true
 ---
 
-Lpd is a Line Printer Daemon (LPD) server library written entirely in OCaml. It allows to define your own actions for LPD events. 
-MOVED TO https://github.com/Chris00/lpd
-
+Lpd is a Line Printer Daemon (LPD) server library written entirely in OCaml. It allows to define your own actions for
+LPD events. 
 
 * Admins:
   * [user144](/users/user144)

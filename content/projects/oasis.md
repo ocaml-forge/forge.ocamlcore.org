@@ -6,9 +6,6 @@ no_index: true
 
 OASIS is a Cabal like system for OCaml, It uses findlib for libraries and ocamlbuild/OCamlMakefile/OMake for building. 
 
-SCM: https://github.com/ocaml/oasis
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

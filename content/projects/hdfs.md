@@ -4,9 +4,6 @@ new_website: http://ygrek.org.ua/p/ocaml-hdfs/
 no_index: true
 ---
 
-Moved to http://ygrek.org.ua/p/ocaml-hdfs
-
-
 * Admins:
   * [user116](/users/user116)
 * Members:

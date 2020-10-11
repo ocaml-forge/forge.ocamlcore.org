@@ -6,9 +6,6 @@ no_index: true
 
 Lambda-Term is a cross-platform library for manipulating the terminal.
 
-The development repository is on github: https://github.com/diml/lambda-term
-
-
 * Admins:
   * [user145](/users/user145)
 * Members:

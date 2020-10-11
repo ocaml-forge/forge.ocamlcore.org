@@ -6,9 +6,6 @@ no_index: true
 
 Data dumper for backup system
 
-SCM https://github.com/gildor478/savete
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

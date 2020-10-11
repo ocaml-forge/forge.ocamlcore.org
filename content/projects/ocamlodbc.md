@@ -6,8 +6,6 @@ no_index: true
 
 OCamlODBC is an OCaml interface library for various ODBC libraries: MyODBC, Postgresql, UnixODBC, DB2, Oracle, MS Access.
 The configure script (tries to) find what libraries are available.
-Moved to https://github.com/Chris00/ocaml-odbc
-
 
 * Admins:
   * [user304](/users/user304)

@@ -4,10 +4,8 @@ new_website: https://github.com/gildor478/ocamlify
 no_index: true
 ---
 
-OCamlify allows to create OCaml source code by including whole files into OCaml string or string list. The code generated can be compiled as a standard OCaml file.
-
-SCM https://github.com/gildor478/ocamlify
-
+OCamlify allows to create OCaml source code by including whole files into OCaml string or string list. The code
+generated can be compiled as a standard OCaml file.
 
 * Admins:
   * [user102](/users/user102)

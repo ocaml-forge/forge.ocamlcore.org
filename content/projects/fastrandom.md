@@ -6,9 +6,6 @@ no_index: true
 
 A random number generator compatible with standard library Random module (pre OCaml 3.12).
 
-SCM: https://github.com/gildor478/ocaml-fastrandom
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

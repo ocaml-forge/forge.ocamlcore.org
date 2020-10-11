@@ -4,10 +4,8 @@ new_website: https://github.com/diml/obus
 no_index: true
 ---
 
-OBus is a pure ocaml implementation of DBus. It aims to provide a clean and easy way for ocaml programmers to access and provide dbus services.
-
-The development repository is on github: https://github.com/diml/obus
-
+OBus is a pure ocaml implementation of DBus. It aims to provide a clean and easy way for ocaml programmers to access
+and provide dbus services.
 
 * Admins:
   * [user145](/users/user145)

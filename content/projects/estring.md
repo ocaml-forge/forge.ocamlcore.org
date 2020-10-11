@@ -4,10 +4,8 @@ new_website: https://github.com/diml/estring
 no_index: true
 ---
 
-estring, which stands for `extended strings' is a syntax extension allowing to prefix string literals with a specifier to change their meaning.
-
-The development repository is on github: https://github.com/diml/estring
-
+estring, which stands for `extended strings' is a syntax extension allowing to prefix string literals with a specifier
+to change their meaning.
 
 * Admins:
   * [user145](/users/user145)

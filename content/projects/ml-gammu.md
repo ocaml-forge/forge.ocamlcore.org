@@ -4,9 +4,8 @@ new_website: https://github.com/Chris00/ocaml-gammu
 no_index: true
 ---
 
-This is a binding to libGammu <http://wammu.eu/>, which provides abstraction layer to work with different cell phones from different vendors.
-Moved to https://github.com/Chris00/ocaml-gammu
-
+This is a binding to libGammu <http://wammu.eu/>, which provides abstraction layer to work with different cell phones
+from different vendors.
 
 * Admins:
   * [user144](/users/user144)

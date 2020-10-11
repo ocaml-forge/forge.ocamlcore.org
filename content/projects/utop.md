@@ -6,9 +6,6 @@ no_index: true
 
 utop is a toplevel for OCaml which can run in a terminal or in emacs. It supports completion, colors, parenthesis matching, ...
 
-The development repository is on github: https://github.com/diml/utop
-
-
 * Admins:
   * [user145](/users/user145)
 * Members:

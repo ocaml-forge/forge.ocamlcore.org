@@ -6,9 +6,6 @@ no_index: true
 
 Zed is an abstract engine for text edition. It can be used for writing text editors, edition widgets, readlines, ...
 
-The development repository is on github: https://github.com/diml/zed
-
-
 * Admins:
   * [user145](/users/user145)
 * Members:

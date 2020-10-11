@@ -4,9 +4,6 @@ new_website: https://github.com/gildor478/ocaml-gettext
 no_index: true
 ---
 
-Project has moved to Github: https://github.com/gildor478/ocaml-gettext
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

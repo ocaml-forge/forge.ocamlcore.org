@@ -6,9 +6,6 @@ no_index: true
 
 Manage dar backups.
 
-SCM https://github.com/gildor478/darckup
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

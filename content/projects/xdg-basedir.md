@@ -4,12 +4,10 @@ new_website: https://github.com/gildor478/ocaml-xdg-basedir
 no_index: true
 ---
 
-This library implements the xdg-basedir specification. It defines standard locations for configuration, cache and data files.
+This library implements the xdg-basedir specification. It defines standard locations for configuration, cache and data
+files.
 
 http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html
-
-SCM https://github.com/gildor478/ocaml-xdg-basedir
-
 
 * Admins:
   * [user102](/users/user102)

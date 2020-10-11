@@ -6,10 +6,6 @@ no_index: true
 
 Unified diff parsing functions.
 
-The source code is located here:
-https://github.com/gildor478/ocaml-unidiff
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

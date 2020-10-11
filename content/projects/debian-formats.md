@@ -9,9 +9,6 @@ Library to manipulate various file formats used in Debian packaging:
 - debian/changelog
 - debian/watch
 
-SCM: https://github.com/gildor478/ocaml-debian-formats
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

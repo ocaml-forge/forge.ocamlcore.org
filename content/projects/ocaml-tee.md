@@ -4,10 +4,8 @@ new_website: https://github.com/gildor478/ocaml-tee
 no_index: true
 ---
 
-Library and command line utility like POSIX tee command. It allows to redirect stderr/stdout of a command to a file. Unlike POSIX tee, the file has a specific format to differentiate time/stdout/stderr.
-
-SCM https://github.com/gildor478/ocaml-tee
-
+Library and command line utility like POSIX tee command. It allows to redirect stderr/stdout of a command to a file.
+Unlike POSIX tee, the file has a specific format to differentiate time/stdout/stderr.
 
 * Admins:
   * [user102](/users/user102)

@@ -6,10 +6,6 @@ no_index: true
 
 Create Debian package which contains a compiled set of OPAM packages.
 
-The VCS and the bug tracker are on github:
-https://github.com/gildor478/opam2debian
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

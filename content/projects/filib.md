@@ -6,9 +6,6 @@ no_index: true
 
 This is a binding to filib++ <http://www2.math.uni-wuppertal.de/~xsc/software/filib.html>, an interval library. 
 
-→ Githun https://github.com/Chris00/ocaml-filib
-
-
 * Admins:
   * [user144](/users/user144)
 * Members:

@@ -8,9 +8,6 @@ This program helps to manage passwords set automatically and stored in a semi-se
 
 It is not a secure storage since it only uses the Unix ACL system.
 
-SCM https://github.com/gildor478/sekred
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

@@ -4,10 +4,8 @@ new_website: https://github.com/gildor478/ocaml-process-monitor
 no_index: true
 ---
 
-OCaml process monitor is designed in the same spirit as UNIX "top" but only tracks and sums resources usage of a process and its children.
-
-SCM https://github.com/gildor478/ocaml-process-monitor
-
+OCaml process monitor is designed in the same spirit as UNIX "top" but only tracks and sums resources usage of a
+process and its children.
 
 * Admins:
   * [user102](/users/user102)

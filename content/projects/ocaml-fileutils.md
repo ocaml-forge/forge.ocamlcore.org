@@ -4,9 +4,6 @@ new_website: https://github.com/gildor478/ocaml-fileutils
 no_index: true
 ---
 
-Moved to https://github.com/gildor478/ocaml-fileutils
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

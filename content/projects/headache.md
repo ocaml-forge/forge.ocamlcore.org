@@ -4,10 +4,6 @@ new_website: https://github.com/Frama-C/headache
 no_index: true
 ---
 
-This project has migrated to Github:
-https://github.com/Frama-C/headache
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

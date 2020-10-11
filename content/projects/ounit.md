@@ -4,11 +4,8 @@ new_website: https://github.com/gildor478/ounit
 no_index: true
 ---
 
-OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is similar to JUnit, and other XUnit testing frameworks.
-
-SCM https://github.com/gildor478/ounit
-
-
+OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is similar to
+JUnit, and other XUnit testing frameworks.
 
 * Admins:
   * [user102](/users/user102)

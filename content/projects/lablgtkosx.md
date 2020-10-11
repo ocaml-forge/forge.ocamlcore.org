@@ -4,10 +4,7 @@ new_website: https://github.com/pirbo/lablGtkOSXApplication
 no_index: true
 ---
 
-Project moved to https://github.com/pirbo/lablGtkOSXApplication
-
 This project aims to bind gtkOSXApplication on top of lablgtk.
-
 
 * Admins:
   * [user1161](/users/user1161)

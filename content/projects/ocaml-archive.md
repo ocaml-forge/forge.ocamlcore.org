@@ -7,9 +7,6 @@ no_index: true
 Bindings to libarchive with Lwt support.
 C library: http://code.google.com/p/libarchive
 
-SCM: https://github.com/gildor478/ocaml-archive
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

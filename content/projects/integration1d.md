@@ -6,9 +6,6 @@ no_index: true
 
 Various functions to perform integration of functions of one real variable inspired from QUADPACK.  Pure OCaml code.
 
-→ Github https://github.com/Chris00/integration1d
-
-
 * Admins:
   * [user144](/users/user144)
 * Members:

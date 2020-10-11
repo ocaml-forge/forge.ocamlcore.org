@@ -6,9 +6,6 @@ no_index: true
 
 jingoo is template engine compatible with Jinja2(python template engine).
 
-latest release is at https://github.com/tategakibunko/jingoo
-
-
 * Admins:
   * [user4969](/users/user4969)
 * Members:

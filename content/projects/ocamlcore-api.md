@@ -6,10 +6,7 @@ no_index: true
 
 OCaml library to connect an application to the forge.ocaml.org infrastructure (e.g. login/password/page template/single sign-on).
 
-SCM https://github.com/gildor478/forge.ocaml.org-api
-
 This project is deprecated as of 2017-01-25.
-
 
 * Admins:
   * [user102](/users/user102)

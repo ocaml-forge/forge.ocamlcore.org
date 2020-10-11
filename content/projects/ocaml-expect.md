@@ -9,9 +9,6 @@ This is a simple implementation of `expect` to help building unitary testing of 
 See the Expect manual for more information:
 http://expect.nist.gov/
 
-SCM: https://github.com/gildor478/ocaml-expect
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

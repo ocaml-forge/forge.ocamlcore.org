@@ -4,9 +4,6 @@ new_website: https://github.com/shawjef3/ocaml-mmix-sim.
 no_index: true
 ---
 
-Moved to https://github.com/shawjef3/ocaml-mmix-sim.
-
-
 * Admins:
   * [user155](/users/user155)
 * Members:

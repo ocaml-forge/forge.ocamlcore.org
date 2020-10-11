@@ -5,8 +5,6 @@ no_index: true
 ---
 
 This is a binding to ODEPACK, a collection of solvers for the initial value problem for ordinary differential equations.
-MOVED TO https://github.com/Chris00/ocaml-odepack
-
 
 * Admins:
   * [user144](/users/user144)

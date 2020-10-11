@@ -4,8 +4,7 @@ new_website: https://github.com/slegrand45/mysql_protocol
 no_index: true
 ---
 
-Implementation of MySQL Protocol with the Bitstring library. This project has moved to GitHub: https://github.com/slegrand45/mysql_protocol
-
+Implementation of MySQL Protocol with the Bitstring library.
 
 * Admins:
   * [user845](/users/user845)

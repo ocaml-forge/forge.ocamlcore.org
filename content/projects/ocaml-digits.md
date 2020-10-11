@@ -4,10 +4,8 @@ new_website: https://github.com/gildor478/ocaml-digits
 no_index: true
 ---
 
-Some simple digit functions, used to solve problems of project Euler. For example, a function to decompose an int into its digits.
-
-SCM: https://github.com/gildor478/ocaml-digits
-
+Some simple digit functions, used to solve problems of project Euler. For example, a function to decompose an int into
+its digits.
 
 * Admins:
   * [user102](/users/user102)

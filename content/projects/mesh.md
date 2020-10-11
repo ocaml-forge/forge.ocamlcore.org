@@ -5,8 +5,6 @@ no_index: true
 ---
 
 OCaml interface to various mesh generators, in particular triangle.
-Move to https://github.com/Chris00/mesh
-
 
 * Admins:
   * [user144](/users/user144)

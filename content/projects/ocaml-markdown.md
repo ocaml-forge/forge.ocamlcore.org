@@ -6,9 +6,6 @@ no_index: true
 
 Markdown processor written in OCaml for Ocsigen
 
-Source code hosted on github: https://github.com/ocaml/ocaml-markdown
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

@@ -4,8 +4,7 @@ new_website: https://github.com/gildor478/ocaml-data-notation
 no_index: true
 ---
 
-This project  is deprecated as of 2019-09-14 and has moved to https://github.com/gildor478/ocaml-data-notation
-
+This project  is deprecated as of 2019-09-14.
 
 * Admins:
   * [user102](/users/user102)

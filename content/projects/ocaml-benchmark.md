@@ -5,8 +5,6 @@ no_index: true
 ---
 
 OCaml Benchmark is a small module to benchmark running times of code.
-The repository is at https://github.com/Chris00/ocaml-benchmark
-
 
 * Admins:
   * [user144](/users/user144)

@@ -4,10 +4,8 @@ new_website: https://github.com/garrigue/labltk
 no_index: true
 ---
 
-This project has moved to GitHub: https://github.com/garrigue/labltk
-
-LablTk is an interface to the Tcl/Tk GUI framework. It allows to develop GUI applications in a speedy and type safe way. The OCamlBrowser library viewer is also part of this project.
-
+LablTk is an interface to the Tcl/Tk GUI framework. It allows to develop GUI applications in a speedy and type safe way.
+The OCamlBrowser library viewer is also part of this project.
 
 * Admins:
   * [user111](/users/user111)

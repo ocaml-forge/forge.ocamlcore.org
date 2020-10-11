@@ -6,10 +6,6 @@ no_index: true
 
 Apply simple pre-commit checks to sources files, output errors compatible with vim quickfix.
 
-Source code is located here:
-https://github.com/gildor478/ocaml-precommit
-
-
 * Admins:
   * [user102](/users/user102)
 * Members:

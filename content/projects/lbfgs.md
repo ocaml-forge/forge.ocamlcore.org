@@ -4,9 +4,8 @@ new_website: https://github.com/Chris00/L-BFGS-ocaml
 no_index: true
 ---
 
-L-BFGS is a limited-memory quasi-Newton code for bound-constrained optimization.  It is a binding to http://users.eecs.northwestern.edu/~nocedal/lbfgsb.html
-Moved to https://github.com/Chris00/L-BFGS-ocaml
-
+L-BFGS is a limited-memory quasi-Newton code for bound-constrained optimization.  It is a binding to
+http://users.eecs.northwestern.edu/~nocedal/lbfgsb.html
 
 * Admins:
   * [user144](/users/user144)

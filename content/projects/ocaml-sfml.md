@@ -4,10 +4,6 @@ new_website: https://github.com/fccm/ocaml-sfml
 no_index: true
 ---
 
-This project is now hosted on github:
-https://github.com/fccm/ocaml-sfml
-
-
 * Admins:
   * [user145](/users/user145)
   * [user437](/users/user437)

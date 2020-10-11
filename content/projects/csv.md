@@ -4,9 +4,8 @@ new_website: https://github.com/Chris00/ocaml-csv
 no_index: true
 ---
 
-MOVED TO https://github.com/Chris00/ocaml-csv
-This is a pure OCaml library to read and write CSV files, including all extensions used by Excel — eg. quotes, newlines, 8 bit characters in fields, "0 etc.
-
+This is a pure OCaml library to read and write CSV files, including all extensions used by Excel — eg. quotes, newlines,
+8 bit characters in fields, "0 etc.
 
 * Admins:
   * [user144](/users/user144)

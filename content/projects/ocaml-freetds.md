@@ -4,8 +4,8 @@ new_website: https://github.com/kennknowles/ocaml-freetds
 no_index: true
 ---
 
-OCaml-FreeTDS is a binding to the ct-lib component of the FreeTDS library for accessing Sybase and Microsoft (or other TDS) database servers.  Code and bug tracker on https://github.com/kennknowles/ocaml-freetds
-
+OCaml-FreeTDS is a binding to the ct-lib component of the FreeTDS library for accessing Sybase and Microsoft (or other
+TDS) database servers.
 
 * Admins:
   * [user144](/users/user144)

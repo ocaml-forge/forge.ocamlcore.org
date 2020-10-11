@@ -4,10 +4,7 @@ new_website: https://github.com/garrigue/lablgtk
 no_index: true
 ---
 
-LablGTK has moved to GitHub: https://github.com/garrigue/lablgtk
-
 LablGTK is an Objective Caml interface to Gtk+-1 to -3.
-
 
 * Admins:
   * [user304](/users/user304)

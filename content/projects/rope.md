@@ -5,8 +5,6 @@ no_index: true
 ---
 
 Ropes are a scalable string implementation.
-MOVED to https://github.com/Chris00/ocaml-rope
-
 
 * Admins:
   * [user144](/users/user144)

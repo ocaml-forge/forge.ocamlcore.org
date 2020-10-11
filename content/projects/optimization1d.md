@@ -6,9 +6,6 @@ no_index: true
 
 Collection of functions to find the minimum or maximum of functions float → float.  Pure OCaml code.
 
-→ Github https://github.com/Chris00/optimization1d
-
-
 * Admins:
   * [user144](/users/user144)
 * Members:
