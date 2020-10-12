@@ -155,7 +155,7 @@ Request to get back [the project data](#get_forge_dump) to get the mailing lists
 
 All project sites page are redirecting by default to the matching project page on `forge.ocamlcore.org`. For example,
 `mascot.forge.ocamlcore.org` will redirect to `forge.ocamlcore.org/projects/mascot`. Some sites are redirecting directly
-to the new website of the project (see [redirecting](#site_redirect))
+to the new website of the project (see [redirecting](#site_redirect)). Just as before, we don't support SSL for project site.
 
 # How to redirect a project site page to a new host? {#site_redirect}
 
