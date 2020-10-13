@@ -11,9 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Check links.
-      - uses: marccampbell/hugo-linkcheck-action@v0.1.3
-        env:
-          HUGO_FINAL_URL: https://forge.ocamlcore.org
+      - uses: actions/checkout@v2
+      - name: Link Checker
+        id: lc
+        uses: peter-evans/link-checker@v1
+      - name: Fail if there were link errors
+        run: exit ${{ steps.lc.outputs.exit_code }}
 
       # Check consistency of users/projects.
       - name: Check users/projects consistency
