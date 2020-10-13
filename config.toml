@@ -5,3 +5,4 @@ theme = "forge-theme"
 
 [params]
   bugReportURL = "https://github.com/ocaml-forge/forge.ocamlcore.org/issues/new/choose"
+  googleUA = "UA-44957583-2"
