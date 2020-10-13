@@ -1,0 +1,7 @@
+[Settings]
+
+[[redirects]]
+  from = "/forum/forum.php?forum_id=958"
+  to = "/deprecation_announcement"
+  status = 302
+  force = true
