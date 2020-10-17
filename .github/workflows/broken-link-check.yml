@@ -2,8 +2,8 @@ name: Broken Link Check
 
 on:
   schedule:
-    - cron: 0 0 1 * *
-  repository_dispatch:
+    - cron: 0 0 3 * *
+  workflow_dispatch:
     types: [check-link]
 
 jobs:
