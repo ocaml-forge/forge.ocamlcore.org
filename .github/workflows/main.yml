@@ -9,6 +9,7 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       # Checkout the repository, with submodules for the theme.
       - uses: actions/checkout@v2
@@ -20,6 +21,7 @@ jobs:
 
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       # Checkout the repository, with submodules for the theme.
       - uses: actions/checkout@v2
