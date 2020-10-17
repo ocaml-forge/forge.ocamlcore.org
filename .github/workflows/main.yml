@@ -10,11 +10,21 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repository, with submodules for the theme.
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+
       - name: Check users/projects consistency
         run: make test
 
   build:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repository, with submodules for the theme.
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+
       - name: Build the website
         run: make build
