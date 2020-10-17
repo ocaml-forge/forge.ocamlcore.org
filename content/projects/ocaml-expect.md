@@ -6,8 +6,7 @@ no_index: true
 
 This is a simple implementation of `expect` to help building unitary testing of interactive program.
 
-See the Expect manual for more information:
-http://expect.nist.gov/
+See the Expect manual for more information: https://www.nist.gov/services-resources/software/expect
 
 * Admins:
   * [user102](/users/user102)

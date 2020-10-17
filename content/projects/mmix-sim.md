@@ -1,6 +1,6 @@
 ---
 title: "mmix-sim"
-new_website: https://github.com/shawjef3/ocaml-mmix-sim.
+new_website: https://github.com/shawjef3/ocaml-mmix-sim
 no_index: true
 ---
 

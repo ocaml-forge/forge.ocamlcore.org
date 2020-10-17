@@ -1,10 +1,10 @@
 ---
 title: "ocamlcore-api"
-new_website: https://github.com/gildor478/forge.ocaml.org-api
 no_index: true
 ---
 
-OCaml library to connect an application to the forge.ocaml.org infrastructure (e.g. login/password/page template/single sign-on).
+OCaml library to connect an application to the forge.ocaml.org infrastructure (e.g. login/password/page template/single
+sign-on).
 
 This project is deprecated as of 2017-01-25.
 

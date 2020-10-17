@@ -5,7 +5,7 @@ no_index: true
 ---
 
 Bindings to libarchive with Lwt support.
-C library: http://code.google.com/p/libarchive
+C library: https://www.libarchive.org/
 
 * Admins:
   * [user102](/users/user102)

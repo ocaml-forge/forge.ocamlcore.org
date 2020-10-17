@@ -5,8 +5,6 @@ no_index: true
 
 'Concurrent Cell' is a library for multi-thread programming with
  CML(Concurrent ML) style synchronous message passing communications.
- Project web page : "http://ccell.forge.ocamlcore.org/".
-
 
 * Admins:
   * [user162](/users/user162)
