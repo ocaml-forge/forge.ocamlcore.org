@@ -3,7 +3,7 @@ title: "lolcaml"
 no_index: true
 ---
 
-A runtime for LOLCode (http://www.lolcode.org/), intended as an introductory OCaml application.
+A runtime for [LOLCode](http://www.lolcode.org/), intended as an introductory OCaml application.
 
 
 * Admins:
