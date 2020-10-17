@@ -26,5 +26,10 @@ jobs:
         with:
           submodules: true
 
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.75.1'
+
       - name: Build the website
         run: make build
