@@ -1,13 +1,32 @@
 name: Broken Link Check
 
 on:
-  workflow_dispatch
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 0 15 * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Broken Link Check
-        uses: technote-space/broken-link-checker-action@v2
+      # Checkout the repository, with submodules for the theme.
+      - uses: actions/checkout@v2
         with:
-          TARGET: https://forge-ocamlcore-org.netlify.app/
+          submodules: true
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.75.1'
+
+      - name: Build website with Hugo
+        run: hugo
+
+      - name: Link Checker
+        id: lc
+        uses: peter-evans/link-checker@v1
+        with:
+          args: -r -v -d public public/*
+
+      - name: Fail if there were link errors
+        run: exit ${{ steps.lc.outputs.exit_code }}

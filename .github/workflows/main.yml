@@ -1,4 +1,4 @@
-name: CI
+name: Continuous Integration
 
 on:
   push:
@@ -7,31 +7,14 @@ on:
     branches: [ master ]
 
 jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check users/projects consistency
+        run: make test
+
   build:
     runs-on: ubuntu-latest
     steps:
-     # Checkout the repository, with submodules for the theme.
-      - uses: actions/checkout@v2
-        with:
-          submodules: true
-        
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.75.1'
-      
-      - name: Build website with Hugo
-        run: hugo
-        
-      - name: Link Checker
-        id: lc
-        uses: peter-evans/link-checker@v1
-        with:
-          args: -r -v -d public public/*
-
-      - name: Fail if there were link errors
-        run: exit ${{ steps.lc.outputs.exit_code }}
-
-      # Check consistency of users/projects.
-      - name: Check users/projects consistency
-        run: echo Hello, world!
+      - name: Build the website
+        run: make build
