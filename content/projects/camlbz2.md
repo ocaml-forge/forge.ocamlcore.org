@@ -1,6 +1,7 @@
 ---
 title: "camlbz2"
 no_index: true
+new_website: https://gitlab.com/irill/camlbz2
 ---
 
 OCamlBZ2 - OCaml bindings for libbz (AKA, bzip2)
