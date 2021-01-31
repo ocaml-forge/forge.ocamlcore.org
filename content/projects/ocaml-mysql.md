@@ -1,6 +1,6 @@
 ---
 title: "ocaml-mysql"
-new_website: http://ygrek.org.ua/p/ocaml-mysql/
+new_website: https://github.com/ygrek/ocaml-mysql
 no_index: true
 ---
 

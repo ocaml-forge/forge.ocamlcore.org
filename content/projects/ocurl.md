@@ -1,6 +1,6 @@
 ---
 title: "ocurl"
-new_website: http://ygrek.org.ua/p/ocurl/
+new_website: https://github.com/ygrek/ocurl
 no_index: true
 ---
 

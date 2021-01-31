@@ -1,6 +1,6 @@
 ---
 title: "gperftools"
-new_website: http://ygrek.org.ua/p/ocaml-gperftools/
+new_website: https://github.com/ygrek/ocaml-gperftools
 no_index: true
 ---
 

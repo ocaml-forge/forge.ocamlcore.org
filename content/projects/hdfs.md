@@ -1,6 +1,6 @@
 ---
 title: "hdfs"
-new_website: http://ygrek.org.ua/p/ocaml-hdfs/
+new_website: https://github.com/ygrek/ocaml-hdfs
 no_index: true
 ---
 

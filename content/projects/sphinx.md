@@ -1,6 +1,6 @@
 ---
 title: "sphinx"
-new_website: http://ygrek.org.ua/p/ocaml-sphinx/
+new_website: https://github.com/ygrek/ocaml-sphinx
 no_index: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "snappy"
-new_website: http://ygrek.org.ua/p/ocaml-snappy/
+new_website: https://github.com/ygrek/ocaml-snappy
 no_index: true
 ---
 

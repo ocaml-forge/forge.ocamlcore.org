@@ -1,6 +1,6 @@
 ---
 title: "lzo"
-new_website: http://ygrek.org.ua/p/ocaml-lzo/
+new_website: https://github.com/ygrek/ocaml-lzo
 no_index: true
 ---
 

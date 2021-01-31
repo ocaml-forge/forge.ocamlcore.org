@@ -1,6 +1,6 @@
 ---
 title: "winsvc"
-new_website: http://ygrek.org.ua/p/ocaml-winsvc/
+new_website: https://github.com/ygrek/ocaml-winsvc
 no_index: true
 ---
 

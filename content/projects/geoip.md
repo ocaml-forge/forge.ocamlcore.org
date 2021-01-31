@@ -1,6 +1,6 @@
 ---
 title: "geoip"
-new_website: http://ygrek.org.ua/p/ocaml-geoip/
+new_website: https://github.com/ygrek/ocaml-geoip
 no_index: true
 ---
 

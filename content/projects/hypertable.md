@@ -1,6 +1,6 @@
 ---
 title: "hypertable"
-new_website: http://ygrek.org.ua/p/ocaml-hypertable/
+new_website: https://github.com/ygrek/ocaml-hypertable
 no_index: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "extunix"
-new_website: http://ygrek.org.ua/p/ocaml-extunix/
+new_website: https://github.com/ygrek/extunix
 no_index: true
 ---
 
