@@ -3,11 +3,7 @@ title: "mathocaml"
 no_index: true
 ---
 
-Mathematical calculus with Ocaml:
-
-http://www.irem.sciences.univ-nantes.fr/Calcul/Ocaml/index.html
-
-Calcul mathématique avec Ocaml.
+Mathematical calculus with Ocaml. Calcul mathématique avec Ocaml.
 
 
 * Admins:
