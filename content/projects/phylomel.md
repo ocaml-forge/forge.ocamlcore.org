@@ -5,8 +5,6 @@ no_index: true
 
 Pylomel is a computer system creating and drawing phylogenetic trees. It is currently in alpha state, but already supports the UPGMA and WPGMA clustering methods and outputs SVG files.
 
-This program is used by this genotypes database : www.mlva.eu
-
 
 * Admins:
   * [user204](/users/user204)
