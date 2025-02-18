@@ -1,6 +1,7 @@
 ---
 title: "dbus-static"
 no_index: true
+new_website: https://github.com/ygrek/dbus-static
 ---
 
 DBus interface introspection and static stubs code generation
